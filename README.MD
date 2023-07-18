@@ -5,7 +5,7 @@ I have designed a Responsive Mobile NavBar as a part of Day 12 challenge.
 ![design](design.gif)
 
 ## 🖥️ OUTPUT
-![Output](output.gif)
+![output](OUTPUT.gif)
 
 ## 👩‍💻 Tech Stack
 - HTML5
